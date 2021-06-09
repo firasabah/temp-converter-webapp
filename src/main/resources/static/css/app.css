@@ -1,0 +1,21 @@
+body {
+  background-color: lightcyan;
+  color: green;
+  margin: 3em;
+  padding: 1em;
+}
+
+h2 {
+  font-weight: lighter;
+  background-color: antiquewhite;
+  padding: 1em;
+}
+
+button {
+  background-color: antiquewhite;
+  border-color: lightgreen;
+  border-radius: 0.425em;
+  padding: 1em;
+  margin-top: 1em;
+  font-size: 1em;
+}
